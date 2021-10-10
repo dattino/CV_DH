@@ -1,0 +1,66 @@
+header{
+    text-align: center;
+    background-color: rgba(229, 229, 229, 1);
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+}
+header img{
+    width: 100px;
+}
+h1{
+    background-color: rgba(196, 196, 196, 1);
+    color: rgba(0, 86, 119, 1);
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 42px;
+    letter-spacing: 35px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+h3{
+    background-color: rgba(196, 196, 196, 1);
+    color: rgba(0, 86, 119, 1);
+    text-align: left;
+    text-transform: uppercase;
+    text-indent: 20px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 28px;
+    letter-spacing: 10px;
+}
+ul.Formulario_1 li span{
+    text-indent: 20px;
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 0px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul.Formulario_2 li span{
+    font-size: 15px;
+    line-height: 23px;
+    letter-spacing: 0px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+ul.Formulario_2 li{
+    text-indent: 20px;
+    list-style: none;
+}
+footer{
+    background-color: rgba(0, 86, 119, 1);
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 10px;}
+}
